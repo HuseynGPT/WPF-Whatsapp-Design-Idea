@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Whatsapp_Design</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\attach_24px.png" />
+    <None Remove="Resources\call_50px.png" />
+    <None Remove="Resources\elon muskk.jpeg" />
+    <None Remove="Resources\emojiii.png" />
+    <None Remove="Resources\iPhone Status bar.png" />
+    <None Remove="Resources\left_arrow_32px.png" />
+    <None Remove="Resources\menu_vertical_30px.png" />
+    <None Remove="Resources\microphone_24px.png" />
+    <None Remove="Resources\search_24px.png" />
+    <None Remove="Resources\sendd btn image.png" />
+    <None Remove="Resources\user logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\attach_24px.png" />
+    <Resource Include="Resources\call_50px.png" />
+    <Resource Include="Resources\elon muskk.jpeg" />
+    <Resource Include="Resources\emojiii.png" />
+    <Resource Include="Resources\iPhone Status bar.png" />
+    <Resource Include="Resources\left_arrow_32px.png" />
+    <Resource Include="Resources\menu_vertical_30px.png" />
+    <Resource Include="Resources\microphone_24px.png" />
+    <Resource Include="Resources\search_24px.png" />
+    <Resource Include="Resources\sendd btn image.png" />
+    <Resource Include="Resources\user logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+</Project>

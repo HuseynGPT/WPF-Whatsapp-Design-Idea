@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\bin\Debug\net6.0-windows\Whatsapp Design.exe
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\bin\Debug\net6.0-windows\Whatsapp Design.deps.json
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\bin\Debug\net6.0-windows\Whatsapp Design.runtimeconfig.json
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\bin\Debug\net6.0-windows\Whatsapp Design.dll
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\bin\Debug\net6.0-windows\Whatsapp Design.pdb
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.g.resources
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.dll
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\refint\Whatsapp Design.dll
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.pdb
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\Whatsapp Design.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Whatsapp Design\Whatsapp Design\obj\Debug\net6.0-windows\ref\Whatsapp Design.dll
