@@ -13,6 +13,7 @@
     <None Remove="Resources\call_50px.png" />
     <None Remove="Resources\elon muskk.jpeg" />
     <None Remove="Resources\emojiii.png" />
+    <None Remove="Resources\icons8_whatsapp_48.png" />
     <None Remove="Resources\iPhone Status bar.png" />
     <None Remove="Resources\left_arrow_32px.png" />
     <None Remove="Resources\menu_vertical_30px.png" />
@@ -27,6 +28,7 @@
     <Resource Include="Resources\call_50px.png" />
     <Resource Include="Resources\elon muskk.jpeg" />
     <Resource Include="Resources\emojiii.png" />
+    <Resource Include="Resources\icons8_whatsapp_48.png" />
     <Resource Include="Resources\iPhone Status bar.png" />
     <Resource Include="Resources\left_arrow_32px.png" />
     <Resource Include="Resources\menu_vertical_30px.png" />

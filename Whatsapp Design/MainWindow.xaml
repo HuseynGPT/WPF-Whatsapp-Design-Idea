@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Whatsapp_Design"
         mc:Ignorable="d"
-        Title="Whatsapp" Height="602" Width="355" WindowStartupLocation="CenterScreen">
+        Title="Whatsapp" Height="602" Width="355" WindowStartupLocation="CenterScreen" Icon="Resources\icons8_whatsapp_48.png">
 
     <!--Main Grid-->
     <Grid>
@@ -34,13 +34,7 @@
 
             <TextBlock Text="Danny Hopkins" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20" Margin="90 12 0 0" FontWeight="Medium" FontFamily="Poppins"/>
 
-            <!--<Label HorizontalAlignment="Right" Margin="0 0 80 0" Width="35" VerticalAlignment="Center">
-                <Image Source="Resources\call_50px.png"/>
-            </Label>
-
-            <Label HorizontalAlignment="Right" Width="35" Margin="0 0 40 0" VerticalAlignment="Center">
-                <Image Source="Resources\attach_24px.png"/>
-            </Label>-->
+      
 
             <Label Margin="0 0 10 0" HorizontalAlignment="Right" Width="35" VerticalAlignment="Center">
                 <Image Source="Resources\search_24px.png"/>
